@@ -1,0 +1,14 @@
+prefix=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540
+exec_prefix=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540
+libdir=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/lib
+includedir=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/lib -lfreetype
+Libs.private: -lz -L/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

@@ -1,0 +1,37 @@
+{
+  "build": "py310hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.2,<3.5.3.0a0",
+    "python >=3.10,<3.11.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "/Users/agastyaasthana/opt/anaconda3/pkgs/matplotlib-3.5.2-py310hca03da5_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.5.2-py310hca03da5_0.conda",
+  "legacy_bz2_md5": "d3951040abab20521bc48a23130cea14",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/agastyaasthana/opt/anaconda3/pkgs/matplotlib-3.5.2-py310hca03da5_0",
+    "type": 1
+  },
+  "md5": "a84505bb1f2ace21d396020c5aeb2410",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/agastyaasthana/opt/anaconda3/pkgs/matplotlib-3.5.2-py310hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "c732f214c173d10e32a4e33756a2f0f6108df5c935dde4ad458a9987e1d3387f",
+  "size": 7498,
+  "subdir": "osx-arm64",
+  "timestamp": 1660168157682,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/matplotlib-3.5.2-py310hca03da5_0.conda",
+  "version": "3.5.2"
+}

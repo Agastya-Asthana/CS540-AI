@@ -1,0 +1,233 @@
+==> 2022-09-22 23:01:37 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda create -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 -y python=3.10
+# conda version: 4.13.0
++defaults/noarch::tzdata-2022c-h04d1e81_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/osx-arm64::bzip2-1.0.8-h620ffc9_4
++defaults/osx-arm64::ca-certificates-2022.07.19-hca03da5_0
++defaults/osx-arm64::certifi-2022.9.14-py310hca03da5_0
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libffi-3.4.2-hc377ac9_4
++defaults/osx-arm64::ncurses-6.3-h1a28f6b_3
++defaults/osx-arm64::openssl-1.1.1q-h1a28f6b_0
++defaults/osx-arm64::pip-22.1.2-py310hca03da5_0
++defaults/osx-arm64::python-3.10.4-hbdb9e5c_0
++defaults/osx-arm64::readline-8.1.2-h1a28f6b_1
++defaults/osx-arm64::setuptools-63.4.1-py310hca03da5_0
++defaults/osx-arm64::sqlite-3.39.2-h1058600_0
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::xz-5.2.5-h1a28f6b_1
++defaults/osx-arm64::zlib-1.2.12-h5a0b063_3
+# update specs: ['python=3.10']
+==> 2022-09-29 13:08:18 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 numpy -y
+# conda version: 22.9.0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::libgfortran-5.0.0-11_2_0_he6877d6_26
++defaults/osx-arm64::libgfortran5-11.2.0-he6877d6_26
++defaults/osx-arm64::libopenblas-0.3.20-hea475bc_0
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::numpy-1.23.1-py310h220015d_0
++defaults/osx-arm64::numpy-base-1.23.1-py310h742c864_0
+# update specs: ['numpy']
+==> 2022-09-29 13:09:47 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 matplotlib -y
+# conda version: 22.9.0
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::munkres-1.1.4-py_0
++defaults/noarch::packaging-21.3-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/osx-arm64::brotli-1.0.9-h1a28f6b_7
++defaults/osx-arm64::brotli-bin-1.0.9-h1a28f6b_7
++defaults/osx-arm64::freetype-2.11.0-h1192e45_0
++defaults/osx-arm64::giflib-5.2.1-h1a28f6b_0
++defaults/osx-arm64::jpeg-9e-h1a28f6b_0
++defaults/osx-arm64::kiwisolver-1.4.2-py310hc377ac9_0
++defaults/osx-arm64::lcms2-2.12-hba8e193_0
++defaults/osx-arm64::lerc-3.0-hc377ac9_0
++defaults/osx-arm64::libbrotlicommon-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlidec-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlienc-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libdeflate-1.8-h1a28f6b_5
++defaults/osx-arm64::libpng-1.6.37-hb8d0fd4_0
++defaults/osx-arm64::libtiff-4.4.0-had003b8_0
++defaults/osx-arm64::libwebp-1.2.2-h68602c7_0
++defaults/osx-arm64::libwebp-base-1.2.2-h1a28f6b_0
++defaults/osx-arm64::lz4-c-1.9.3-hc377ac9_0
++defaults/osx-arm64::matplotlib-3.5.2-py310hca03da5_0
++defaults/osx-arm64::matplotlib-base-3.5.2-py310hc377ac9_0
++defaults/osx-arm64::pillow-9.2.0-py310h4d1bdd5_1
++defaults/osx-arm64::pyparsing-3.0.9-py310hca03da5_0
++defaults/osx-arm64::tornado-6.2-py310h1a28f6b_0
++defaults/osx-arm64::zstd-1.5.2-h8574219_0
+# update specs: ['matplotlib']
+==> 2022-09-29 13:10:10 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 scipy -y
+# conda version: 22.9.0
+-defaults/osx-arm64::numpy-1.23.1-py310h220015d_0
+-defaults/osx-arm64::numpy-base-1.23.1-py310h742c864_0
++defaults/osx-arm64::fftw-3.3.9-h1a28f6b_1
++defaults/osx-arm64::numpy-1.21.5-py310h220015d_3
++defaults/osx-arm64::numpy-base-1.21.5-py310h742c864_3
++defaults/osx-arm64::scipy-1.7.3-py310h4af22ef_2
+# update specs: ['scipy']
+==> 2022-10-13 14:16:05 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda remove -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 matplotlib -y
+# conda version: 22.9.0
+-defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
+-defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
+-defaults/noarch::munkres-1.1.4-py_0
+-defaults/noarch::packaging-21.3-pyhd3eb1b0_0
+-defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
+-defaults/noarch::six-1.16.0-pyhd3eb1b0_1
+-defaults/osx-arm64::brotli-1.0.9-h1a28f6b_7
+-defaults/osx-arm64::brotli-bin-1.0.9-h1a28f6b_7
+-defaults/osx-arm64::certifi-2022.9.14-py310hca03da5_0
+-defaults/osx-arm64::freetype-2.11.0-h1192e45_0
+-defaults/osx-arm64::giflib-5.2.1-h1a28f6b_0
+-defaults/osx-arm64::jpeg-9e-h1a28f6b_0
+-defaults/osx-arm64::kiwisolver-1.4.2-py310hc377ac9_0
+-defaults/osx-arm64::lcms2-2.12-hba8e193_0
+-defaults/osx-arm64::lerc-3.0-hc377ac9_0
+-defaults/osx-arm64::libbrotlicommon-1.0.9-h1a28f6b_7
+-defaults/osx-arm64::libbrotlidec-1.0.9-h1a28f6b_7
+-defaults/osx-arm64::libbrotlienc-1.0.9-h1a28f6b_7
+-defaults/osx-arm64::libdeflate-1.8-h1a28f6b_5
+-defaults/osx-arm64::libgfortran-5.0.0-11_2_0_he6877d6_26
+-defaults/osx-arm64::libgfortran5-11.2.0-he6877d6_26
+-defaults/osx-arm64::libopenblas-0.3.20-hea475bc_0
+-defaults/osx-arm64::libpng-1.6.37-hb8d0fd4_0
+-defaults/osx-arm64::libtiff-4.4.0-had003b8_0
+-defaults/osx-arm64::libwebp-1.2.2-h68602c7_0
+-defaults/osx-arm64::libwebp-base-1.2.2-h1a28f6b_0
+-defaults/osx-arm64::lz4-c-1.9.3-hc377ac9_0
+-defaults/osx-arm64::matplotlib-3.5.2-py310hca03da5_0
+-defaults/osx-arm64::matplotlib-base-3.5.2-py310hc377ac9_0
+-defaults/osx-arm64::pillow-9.2.0-py310h4d1bdd5_1
+-defaults/osx-arm64::pip-22.1.2-py310hca03da5_0
+-defaults/osx-arm64::pyparsing-3.0.9-py310hca03da5_0
+-defaults/osx-arm64::sqlite-3.39.2-h1058600_0
+-defaults/osx-arm64::tornado-6.2-py310h1a28f6b_0
+-defaults/osx-arm64::xz-5.2.5-h1a28f6b_1
+-defaults/osx-arm64::zstd-1.5.2-h8574219_0
++defaults/osx-arm64::certifi-2022.9.24-py310hca03da5_0
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::pip-22.2.2-py310hca03da5_0
++defaults/osx-arm64::sqlite-3.39.3-h1058600_0
++defaults/osx-arm64::xz-5.2.6-h1a28f6b_0
+# remove specs: ['matplotlib']
+==> 2022-10-13 14:16:06 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda remove -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 matplotlib -y
+# conda version: 22.9.0
+# remove specs: ['matplotlib']
+==> 2022-10-13 14:16:31 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 matplotlib -y
+# conda version: 22.9.0
++defaults/noarch::cycler-0.11.0-pyhd3eb1b0_0
++defaults/noarch::fonttools-4.25.0-pyhd3eb1b0_0
++defaults/noarch::munkres-1.1.4-py_0
++defaults/noarch::packaging-21.3-pyhd3eb1b0_0
++defaults/noarch::python-dateutil-2.8.2-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_1
++defaults/noarch::tzdata-2022c-h04d1e81_0
++defaults/noarch::wheel-0.37.1-pyhd3eb1b0_0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::brotli-1.0.9-h1a28f6b_7
++defaults/osx-arm64::brotli-bin-1.0.9-h1a28f6b_7
++defaults/osx-arm64::bzip2-1.0.8-h620ffc9_4
++defaults/osx-arm64::ca-certificates-2022.07.19-hca03da5_0
++defaults/osx-arm64::certifi-2022.9.24-py310hca03da5_0
++defaults/osx-arm64::fftw-3.3.9-h1a28f6b_1
++defaults/osx-arm64::freetype-2.11.0-h1192e45_0
++defaults/osx-arm64::giflib-5.2.1-h1a28f6b_0
++defaults/osx-arm64::jpeg-9e-h1a28f6b_0
++defaults/osx-arm64::kiwisolver-1.4.2-py310hc377ac9_0
++defaults/osx-arm64::lcms2-2.12-hba8e193_0
++defaults/osx-arm64::lerc-3.0-hc377ac9_0
++defaults/osx-arm64::libbrotlicommon-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlidec-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libbrotlienc-1.0.9-h1a28f6b_7
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libdeflate-1.8-h1a28f6b_5
++defaults/osx-arm64::libffi-3.4.2-hc377ac9_4
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::libpng-1.6.37-hb8d0fd4_0
++defaults/osx-arm64::libtiff-4.4.0-had003b8_0
++defaults/osx-arm64::libwebp-1.2.4-h68602c7_0
++defaults/osx-arm64::libwebp-base-1.2.4-h1a28f6b_0
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::lz4-c-1.9.3-hc377ac9_0
++defaults/osx-arm64::matplotlib-3.5.2-py310hca03da5_0
++defaults/osx-arm64::matplotlib-base-3.5.2-py310hc377ac9_0
++defaults/osx-arm64::ncurses-6.3-h1a28f6b_3
++defaults/osx-arm64::numpy-1.21.5-py310h220015d_3
++defaults/osx-arm64::numpy-base-1.21.5-py310h742c864_3
++defaults/osx-arm64::openssl-1.1.1q-h1a28f6b_0
++defaults/osx-arm64::pillow-9.2.0-py310h4d1bdd5_1
++defaults/osx-arm64::pip-22.2.2-py310hca03da5_0
++defaults/osx-arm64::pyparsing-3.0.9-py310hca03da5_0
++defaults/osx-arm64::python-3.10.4-hbdb9e5c_0
++defaults/osx-arm64::readline-8.1.2-h1a28f6b_1
++defaults/osx-arm64::scipy-1.7.3-py310h4af22ef_2
++defaults/osx-arm64::setuptools-63.4.1-py310hca03da5_0
++defaults/osx-arm64::sqlite-3.39.3-h1058600_0
++defaults/osx-arm64::tk-8.6.12-hb8d0fd4_0
++defaults/osx-arm64::tornado-6.2-py310h1a28f6b_0
++defaults/osx-arm64::xz-5.2.6-h1a28f6b_0
++defaults/osx-arm64::zlib-1.2.12-h5a0b063_3
++defaults/osx-arm64::zstd-1.5.2-h8574219_0
+# update specs: ['matplotlib']
+==> 2022-11-02 16:01:52 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 pytorch -y
+# conda version: 22.9.0
+-defaults/osx-arm64::ca-certificates-2022.07.19-hca03da5_0
++defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
++defaults/osx-arm64::ca-certificates-2022.10.11-hca03da5_0
++defaults/osx-arm64::cffi-1.15.1-py310h22df2f2_0
++defaults/osx-arm64::future-0.18.2-py310hca03da5_1
++defaults/osx-arm64::ninja-1.10.2-hca03da5_5
++defaults/osx-arm64::ninja-base-1.10.2-h525c30c_5
++defaults/osx-arm64::pytorch-1.10.2-cpu_py310h36d6a73_0
++defaults/osx-arm64::typing-extensions-4.3.0-py310hca03da5_0
++defaults/osx-arm64::typing_extensions-4.3.0-py310hca03da5_0
+# update specs: ['pytorch']
+==> 2022-11-02 16:20:39 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda install -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 torchvision -y
+# conda version: 22.9.0
+-defaults/osx-arm64::numpy-1.21.5-py310h220015d_3
+-defaults/osx-arm64::numpy-base-1.21.5-py310h742c864_3
+-defaults/osx-arm64::scipy-1.7.3-py310h4af22ef_2
++defaults/osx-arm64::numpy-1.23.3-py310h220015d_1
++defaults/osx-arm64::numpy-base-1.23.3-py310h742c864_1
++defaults/osx-arm64::scipy-1.9.1-py310h20cbe94_0
++defaults/osx-arm64::torchvision-0.11.3-cpu_py310h15370ac_2
+# update specs: ['torchvision']
+==> 2022-11-02 16:57:12 <==
+# cmd: /Users/agastyaasthana/opt/anaconda3/bin/conda remove -p /Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540 pytorch -y
+# conda version: 22.9.0
+-defaults/noarch::pycparser-2.21-pyhd3eb1b0_0
+-defaults/noarch::tzdata-2022c-h04d1e81_0
+-defaults/osx-arm64::cffi-1.15.1-py310h22df2f2_0
+-defaults/osx-arm64::freetype-2.11.0-h1192e45_0
+-defaults/osx-arm64::future-0.18.2-py310hca03da5_1
+-defaults/osx-arm64::ninja-1.10.2-hca03da5_5
+-defaults/osx-arm64::ninja-base-1.10.2-h525c30c_5
+-defaults/osx-arm64::pytorch-1.10.2-cpu_py310h36d6a73_0
+-defaults/osx-arm64::readline-8.1.2-h1a28f6b_1
+-defaults/osx-arm64::setuptools-63.4.1-py310hca03da5_0
+-defaults/osx-arm64::torchvision-0.11.3-cpu_py310h15370ac_2
+-defaults/osx-arm64::typing-extensions-4.3.0-py310hca03da5_0
+-defaults/osx-arm64::typing_extensions-4.3.0-py310hca03da5_0
+-defaults/osx-arm64::zlib-1.2.12-h5a0b063_3
++defaults/noarch::tzdata-2022f-h04d1e81_0
++defaults/osx-arm64::freetype-2.12.1-h1192e45_0
++defaults/osx-arm64::readline-8.2-h1a28f6b_0
++defaults/osx-arm64::setuptools-65.5.0-py310hca03da5_0
++defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
+# remove specs: ['pytorch']

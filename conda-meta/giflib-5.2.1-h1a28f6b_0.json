@@ -1,0 +1,216 @@
+{
+  "build": "h1a28f6b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/agastyaasthana/opt/anaconda3/pkgs/giflib-5.2.1-h1a28f6b_0",
+  "features": "",
+  "files": [
+    "bin/gif2rgb",
+    "bin/gifbuild",
+    "bin/gifclrmp",
+    "bin/giffix",
+    "bin/giftext",
+    "bin/giftool",
+    "include/gif_lib.h",
+    "lib/libgif.7.2.0.dylib",
+    "lib/libgif.7.dylib",
+    "lib/libgif.dylib",
+    "share/man/man1/gif2rgb.1",
+    "share/man/man1/gifbg.1",
+    "share/man/man1/gifbuild.1",
+    "share/man/man1/gifclrmp.1",
+    "share/man/man1/gifcolor.1",
+    "share/man/man1/gifecho.1",
+    "share/man/man1/giffix.1",
+    "share/man/man1/gifhisto.1",
+    "share/man/man1/gifinto.1",
+    "share/man/man1/giflib.1",
+    "share/man/man1/giftext.1",
+    "share/man/man1/giftool.1",
+    "share/man/man1/gifwedge.1"
+  ],
+  "fn": "giflib-5.2.1-h1a28f6b_0.conda",
+  "legacy_bz2_md5": "cac2c166ba7f421550ffe422f7fde57a",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/agastyaasthana/opt/anaconda3/pkgs/giflib-5.2.1-h1a28f6b_0",
+    "type": 1
+  },
+  "md5": "0c69cf75c978e0f99478d6177d39fde0",
+  "name": "giflib",
+  "package_tarball_full_path": "/Users/agastyaasthana/opt/anaconda3/pkgs/giflib-5.2.1-h1a28f6b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/gif2rgb",
+        "path_type": "hardlink",
+        "sha256": "a801ab5fd97648ed159cb2dbc73226e6bdc9ffa56034a1de99fe4fb7b6475b98",
+        "sha256_in_prefix": "a801ab5fd97648ed159cb2dbc73226e6bdc9ffa56034a1de99fe4fb7b6475b98",
+        "size_in_bytes": 69248
+      },
+      {
+        "_path": "bin/gifbuild",
+        "path_type": "hardlink",
+        "sha256": "3ccba08b0fb7b5ed7c7a8cf5e536af0edb4bd79fc95f1c2ab6566960b8bab9eb",
+        "sha256_in_prefix": "3ccba08b0fb7b5ed7c7a8cf5e536af0edb4bd79fc95f1c2ab6566960b8bab9eb",
+        "size_in_bytes": 69968
+      },
+      {
+        "_path": "bin/gifclrmp",
+        "path_type": "hardlink",
+        "sha256": "22c62a1cb24dbccdec8d4e0a5561a47ead4ab7bea4a34e651f8d252d516ca30f",
+        "sha256_in_prefix": "22c62a1cb24dbccdec8d4e0a5561a47ead4ab7bea4a34e651f8d252d516ca30f",
+        "size_in_bytes": 69584
+      },
+      {
+        "_path": "bin/giffix",
+        "path_type": "hardlink",
+        "sha256": "8fbe525d1908c80e2eee1d9cce984668ffe28b3320da3e20b36dcaee3f84eb63",
+        "sha256_in_prefix": "8fbe525d1908c80e2eee1d9cce984668ffe28b3320da3e20b36dcaee3f84eb63",
+        "size_in_bytes": 68896
+      },
+      {
+        "_path": "bin/giftext",
+        "path_type": "hardlink",
+        "sha256": "799f2a8f2605ae5530f5c61f29fb6ff5528d8ee34ccbec30baa198213fa31407",
+        "sha256_in_prefix": "799f2a8f2605ae5530f5c61f29fb6ff5528d8ee34ccbec30baa198213fa31407",
+        "size_in_bytes": 68960
+      },
+      {
+        "_path": "bin/giftool",
+        "path_type": "hardlink",
+        "sha256": "7afd0c70b6892d4d808e8177a9721742fb64b6fa8986bce59740bde23f382f10",
+        "sha256_in_prefix": "7afd0c70b6892d4d808e8177a9721742fb64b6fa8986bce59740bde23f382f10",
+        "size_in_bytes": 68608
+      },
+      {
+        "_path": "include/gif_lib.h",
+        "path_type": "hardlink",
+        "sha256": "7c73854e2d7be4fc50e475c098cfcda5d704d5a10414db668c93c362d0c92db8",
+        "sha256_in_prefix": "7c73854e2d7be4fc50e475c098cfcda5d704d5a10414db668c93c362d0c92db8",
+        "size_in_bytes": 12986
+      },
+      {
+        "_path": "lib/libgif.7.2.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "f66affff2d3d0ebae53aaf601dfa20e171fe2cec1232c6a8f25b915602039d76",
+        "sha256_in_prefix": "f66affff2d3d0ebae53aaf601dfa20e171fe2cec1232c6a8f25b915602039d76",
+        "size_in_bytes": 105648
+      },
+      {
+        "_path": "lib/libgif.7.dylib",
+        "path_type": "softlink",
+        "sha256": "f66affff2d3d0ebae53aaf601dfa20e171fe2cec1232c6a8f25b915602039d76",
+        "size_in_bytes": 105648
+      },
+      {
+        "_path": "lib/libgif.dylib",
+        "path_type": "softlink",
+        "sha256": "f66affff2d3d0ebae53aaf601dfa20e171fe2cec1232c6a8f25b915602039d76",
+        "size_in_bytes": 105648
+      },
+      {
+        "_path": "share/man/man1/gif2rgb.1",
+        "path_type": "hardlink",
+        "sha256": "fa3ac009d61420d4af1cad5b2620098426d8b1f9af565aaf7972078123523eeb",
+        "sha256_in_prefix": "fa3ac009d61420d4af1cad5b2620098426d8b1f9af565aaf7972078123523eeb",
+        "size_in_bytes": 2636
+      },
+      {
+        "_path": "share/man/man1/gifbg.1",
+        "path_type": "hardlink",
+        "sha256": "657427adfa9b1e516b6529bee237646145f54b7d3fe09a9ff31dbfc1af1750b6",
+        "sha256_in_prefix": "657427adfa9b1e516b6529bee237646145f54b7d3fe09a9ff31dbfc1af1750b6",
+        "size_in_bytes": 3230
+      },
+      {
+        "_path": "share/man/man1/gifbuild.1",
+        "path_type": "hardlink",
+        "sha256": "f60d9ac89b37c308f9b5933ab2563b26a46ea51c004cba528605b47ab65e34c0",
+        "sha256_in_prefix": "f60d9ac89b37c308f9b5933ab2563b26a46ea51c004cba528605b47ab65e34c0",
+        "size_in_bytes": 7301
+      },
+      {
+        "_path": "share/man/man1/gifclrmp.1",
+        "path_type": "hardlink",
+        "sha256": "c4b32ea182b322cdcc5f3b09e85e0fc8a32d39d24b674cae1faf97309779786d",
+        "sha256_in_prefix": "c4b32ea182b322cdcc5f3b09e85e0fc8a32d39d24b674cae1faf97309779786d",
+        "size_in_bytes": 2939
+      },
+      {
+        "_path": "share/man/man1/gifcolor.1",
+        "path_type": "hardlink",
+        "sha256": "b19498e1cb2fb569700c7552a3d4c37f7b785bd1cb0b8f065443da4441305cf7",
+        "sha256_in_prefix": "b19498e1cb2fb569700c7552a3d4c37f7b785bd1cb0b8f065443da4441305cf7",
+        "size_in_bytes": 2372
+      },
+      {
+        "_path": "share/man/man1/gifecho.1",
+        "path_type": "hardlink",
+        "sha256": "ee6354477ffa9d41ded852b6c3535fd6ff944cf82cd94e3c9f2747a51984f29e",
+        "sha256_in_prefix": "ee6354477ffa9d41ded852b6c3535fd6ff944cf82cd94e3c9f2747a51984f29e",
+        "size_in_bytes": 3272
+      },
+      {
+        "_path": "share/man/man1/giffix.1",
+        "path_type": "hardlink",
+        "sha256": "1f980155c7a8df96637930dfe8baf1546bed7702102f5294aac4f8daaf6dff8d",
+        "sha256_in_prefix": "1f980155c7a8df96637930dfe8baf1546bed7702102f5294aac4f8daaf6dff8d",
+        "size_in_bytes": 1881
+      },
+      {
+        "_path": "share/man/man1/gifhisto.1",
+        "path_type": "hardlink",
+        "sha256": "83b5718394a142fbf4744482d0aa02e2dbdd13f1773027d28597a99c0dc887ac",
+        "sha256_in_prefix": "83b5718394a142fbf4744482d0aa02e2dbdd13f1773027d28597a99c0dc887ac",
+        "size_in_bytes": 2944
+      },
+      {
+        "_path": "share/man/man1/gifinto.1",
+        "path_type": "hardlink",
+        "sha256": "1e49ae11ddd9d865b3f600ab7fc682d486e70fa548835d466aa7bbdea3b788d1",
+        "sha256_in_prefix": "1e49ae11ddd9d865b3f600ab7fc682d486e70fa548835d466aa7bbdea3b788d1",
+        "size_in_bytes": 2344
+      },
+      {
+        "_path": "share/man/man1/giflib.1",
+        "path_type": "hardlink",
+        "sha256": "53d18384a7e8ca3156f97c89206121d6fa24d254007b15179007896c708fde93",
+        "sha256_in_prefix": "53d18384a7e8ca3156f97c89206121d6fa24d254007b15179007896c708fde93",
+        "size_in_bytes": 2279
+      },
+      {
+        "_path": "share/man/man1/giftext.1",
+        "path_type": "hardlink",
+        "sha256": "ba236c1101d096af5b5937ab8949fd1bd34260f01d1530788b9474fdfeeb1dbc",
+        "sha256_in_prefix": "ba236c1101d096af5b5937ab8949fd1bd34260f01d1530788b9474fdfeeb1dbc",
+        "size_in_bytes": 2581
+      },
+      {
+        "_path": "share/man/man1/giftool.1",
+        "path_type": "hardlink",
+        "sha256": "3720482ce76262fd8b4c9981adc6ca109d9eb9e728855cc17b87d903a7d2404d",
+        "sha256_in_prefix": "3720482ce76262fd8b4c9981adc6ca109d9eb9e728855cc17b87d903a7d2404d",
+        "size_in_bytes": 5226
+      },
+      {
+        "_path": "share/man/man1/gifwedge.1",
+        "path_type": "hardlink",
+        "sha256": "505e7ba65c27c12bd8e31293569a9212a581fba267e8facee3df1da9c458fb98",
+        "sha256_in_prefix": "505e7ba65c27c12bd8e31293569a9212a581fba267e8facee3df1da9c458fb98",
+        "size_in_bytes": 2138
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ba4e78b7532fa6c516c00a875eb078dd7a39a3dd0cb3d33f97e90890eb0bd82e",
+  "size": 70779,
+  "subdir": "osx-arm64",
+  "timestamp": 1628858041899,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/giflib-5.2.1-h1a28f6b_0.conda",
+  "version": "5.2.1"
+}

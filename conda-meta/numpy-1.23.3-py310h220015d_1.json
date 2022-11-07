@@ -1,0 +1,39 @@
+{
+  "build": "py310h220015d_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas",
+    "libcxx >=12.0.0",
+    "libopenblas >=0.3.20,<1.0a0",
+    "numpy-base 1.23.3 py310h742c864_1",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "/Users/agastyaasthana/opt/anaconda3/pkgs/numpy-1.23.3-py310h220015d_1",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.23.3-py310h220015d_1.conda",
+  "legacy_bz2_md5": "82b5cebcff4768b2e7e7fc2929cd4ac0",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/agastyaasthana/opt/anaconda3/pkgs/numpy-1.23.3-py310h220015d_1",
+    "type": 1
+  },
+  "md5": "298e58ee0dedf7a772216017104ca2df",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/agastyaasthana/opt/anaconda3/pkgs/numpy-1.23.3-py310h220015d_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c8cd2588ea0b55fee13dd89acb7dbf92e77e3e1012dad59cae637af72287f949",
+  "size": 11488,
+  "subdir": "osx-arm64",
+  "timestamp": 1667233996159,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-1.23.3-py310h220015d_1.conda",
+  "version": "1.23.3"
+}

@@ -1,0 +1,13 @@
+prefix=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540
+exec_prefix=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540
+libdir=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/lib
+sharedlibdir=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/lib
+includedir=/Users/agastyaasthana/Library/CloudStorage/OneDrive-UW-Madison/CS 540/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
